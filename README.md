@@ -1,0 +1,1 @@
+A blockchain platform for utilizing machine learning and artificial intelligence to integrate computer vision into a virtual reality application for manipulating Internet of Things-enabled devices from the cloud using big data and crowd-sourcing.
